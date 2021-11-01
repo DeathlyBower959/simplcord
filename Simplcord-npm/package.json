@@ -1,0 +1,8 @@
+{
+  "name": "simplcord",
+  "version": "1.0.0",
+  "description": "A simple package to help you make discord.js bots faster!",
+  "main": "index.js",
+  "author": "DeathlyBower959",
+  "license": "MIT"
+}

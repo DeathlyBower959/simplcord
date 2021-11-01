@@ -1,0 +1,15 @@
+{
+  "name": "simplcord-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.14",
+    "simplcord": "file:../Simplcord-npm"
+  }
+}
